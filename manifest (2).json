@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "cainc0de.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "cainc0de.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
